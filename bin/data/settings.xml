@@ -1,0 +1,16 @@
+<settings>
+	<master>
+		<address>192.168.130.242</address>
+		<port>12347</port>
+	</master>
+	<send>
+		<address>192.168.130.241</address>
+		<port>12346</port>
+	</send>
+	<dimensions>
+		<width>3840</width>
+		<height>1080</height>
+       	</dimensions>
+	<go_fullscreen>true</go_fullscreen>
+    <loop>true</loop>
+</settings>
